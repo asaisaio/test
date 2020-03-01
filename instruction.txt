@@ -2,3 +2,4 @@ This is a piece of  changedtext.
 fadsfadsfasd
 fasdfasdf
 asdfadsf
+new contents
