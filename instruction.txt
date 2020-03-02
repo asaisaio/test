@@ -6,3 +6,4 @@ new  contents
 how far can you get this change?
 it is c hanged again. something is added. and is added     again. and again and will be done aga in.
 I add some contents into the file.
+I add again a sentence to the file.
